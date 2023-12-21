@@ -9,9 +9,6 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-Publications:
----
-
 [**Uncertainty-Aware Ensemble Learning Models for Out-of-Distribution Medical Imaging Analysis**](https://wi-lab.com/cyberchair/2023/bibm23/yourpaper/B1989_6956.pdf)
 J. Ben Tamo, **Micky C. Nnamdi**, Lea Lesbats, Wenqi Shi, J. Ben Tamo, Yishan Zhong, and May D. Wang.   
 2023 IEEE International Conference on Bioinformatics and Biomedicine Artificial Intelligence & Big Data vs Pandemics Workshop (**BIBM**), 2023
