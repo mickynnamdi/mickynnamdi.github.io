@@ -15,7 +15,6 @@ News
 
 * **[Aug 2023]** Awarded the **<font color="red">NSF travel award</font>** to attend the IEEE-BHI conference in Pittsburgh, USA.
 
-
 * **[July 2023]** One paper got accepted in **IEEE-BHI 2023**, discussing concept bottleneck model for adolescent idiopathic scoliosis patient reported outcomes.
 
 * **[July 2023]** Two papers got accepted in **ACM-BCB 2023**, discussing adolescent idiopathic scoliosis patient subphenotyping for surgical planning and model confidence calibration.
@@ -28,13 +27,9 @@ Projects
 ------
 * Multimodal learning
 * Radiography – Classification
-
 * Sensor Informatics
-
 * Quantitative Diagnoses of Psychiatric Disorders Using EEG Signals
-
 * Event-Based Hand gesture Recognition
-
 * Identifying Parkinson’s Disease Patients
 
 Education
@@ -66,6 +61,6 @@ Community Engagement/Leadership Experience
 
 Hobbies
 ------
-##### When not working on my research, I watch or play soccer. 
+When not working on my research, I watch or play soccer. 
 
 <img src="/image/soccer.jpg" alt="Normal" height=500  width=500/> 
