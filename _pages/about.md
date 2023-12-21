@@ -63,4 +63,4 @@ Hobbies
 ------
 When not working on my research, I watch or play soccer. 
 
-<img src="/image/soccer.jpg" alt="Normal" height=500  width=500/> 
+<img src="/images/soccer.jpg" alt="Normal" height=500  width=500/> 
