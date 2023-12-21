@@ -2,7 +2,6 @@
 title: "Quantitative Diagnosis Of Psychiatric Disorders Using EEG Signals"
 collection: projects
 permalink: /projects/2022-Quantitative-Diagnosis-Of-Psychiatric-Disorders-Using-EEG-Signals
-excerpt: '<img src="/images/eeg.png" alt="Logo" width="150" height="100" /> Project for Machine Learning (CS-7641)'
 categories:
   - Deep Learning
 ---
