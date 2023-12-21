@@ -3,7 +3,6 @@ title: "Design and Validation of a Classification Model for Parkinson’s Diseas
 collection: projects
 permalink: /projects/2022-Design-and-Validation-of-a-Classification-Model-for-Parkinson’s-Disease
 excerpt: '<img src="/image/parki.png" alt="Logo" width="100" height="150" /> Project for Statistical Machine Learning (ECE-6254)'
-date:
 categories:
   - Deep Learning
 ---
