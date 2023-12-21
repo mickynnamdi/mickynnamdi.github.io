@@ -9,8 +9,6 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-$^\*=$Equal Contribution
-
 Publications:
 ---
 
@@ -20,7 +18,7 @@ J. Ben Tamo, **Micky C. Nnamdi**, Lea Lesbats, Wenqi Shi, J. Ben Tamo, Yishan Zh
 
 [**Concept Bottleneck Model for Adolescent Idiopathic Scoliosis Patient Reported Outcomes Prediction**](https://bhiconference.github.io/BHI2023/2023/pdfs/1570918623.pdf)   
 **Micky C. Nnamdi**, Wenqi Shi, J. Ben Tamo, Henry J. Iwinski, J. Michael Wattenbarger, and May D. Wang.   
-2023 IEEE EMBS International Conference on Biomedical and Health Informatics (**IEEE-BHI**), 2023, **<font color="red">[Top 12% papers]</font>
+2023 IEEE EMBS International Conference on Biomedical and Health Informatics (**IEEE-BHI**), 2023, **<font color="red">[Top 12% papers]</font>**
 
 [**Model Confidence Calibration for Reliable COVID19 Early Screening via Audio Signal Analysis**](https://dl.acm.org/doi/pdf/10.1145/3584371.3613015)   
 **Micky C. Nnamdi**, J. Ben Tamo, Sara Stackpole, Wenqi Shi, Benoit Marteau, and May D. Wang.   
