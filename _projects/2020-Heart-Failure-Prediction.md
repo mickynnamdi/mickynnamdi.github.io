@@ -2,7 +2,7 @@
 title: "Heart Failure Prediction"
 collection: projects
 permalink: /projects/2020-Heart-Failure-Prediction
-excerpt: '<img src="/image/heart.png" alt="Logo" width="150" height="100" /> Open Source Project for Hamoye Technologies'
+excerpt: '<img src="/images/heart.png" alt="Logo" width="150" height="100" /> Open Source Project for Hamoye Technologies'
 date: 2020-11-21
 tags:
   - Machine learning
@@ -25,7 +25,7 @@ This project is an open source project on Github under the Hamoye Data Science I
 
 In this project, each contributor is expected to make a pull request to the master branch, while the other team members would review and scrutinize the work. Regular meetings/interactions were held for better collaboration.
 
-<img src="/image/collaborators.png" alt="Normal"/> 
+<img src="/images/collaborators.png" alt="Normal"/> 
 
 Members of our team are Micky Nnamdi, Jessica Ojo, Blessing Egharevba, Basil Ihuoma, Gaurav Jain, Chigozie Mbonu, Ayooluwa Adedipe, Charles Echefu, and Gloria Agunanna. (L-R as in the poster).
 
