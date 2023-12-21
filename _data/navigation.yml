@@ -13,9 +13,7 @@ main:
         
   - title: "Awards"
     url: /awards/
-
-  - title: "Portfoli"
-    url: /portfoli/
+    
   - title: "CV"
     url: /cv/
     
