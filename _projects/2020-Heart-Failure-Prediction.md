@@ -2,7 +2,6 @@
 title: "Heart Failure Prediction"
 collection: projects
 permalink: /projects/2020-Heart-Failure-Prediction
-excerpt: '<img src="/images/heart.png" alt="Logo" width="150" height="100" /> Open Source Project for Hamoye Technologies'
 date: 2020-11-21
 tags:
   - Machine learning
