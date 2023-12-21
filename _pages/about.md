@@ -42,7 +42,7 @@ Work Experience
 ------
 * Fall 2022 - Present: Graduate Research Assistant
   * Bio-Medical Informatics and Bio-Imaging Laboratory, Georgia Institute of Technology, Atlanta
-  * Advisor: Dr. May D. Wang, Ph.D. Professor of Biomedical Engineering
+  * Advisor: [Dr. May D. Wang](https://miblab.bme.gatech.edu/wp-content/uploads/2022/05/2022-05_MayDongmeiWang_Biosketch_ver01.pdf), Ph.D. Professor of Biomedical Engineering
 * 2021: System Designer Intern
   * Hausba Smarthomes Limited
 * 2020: Data Science Intern
