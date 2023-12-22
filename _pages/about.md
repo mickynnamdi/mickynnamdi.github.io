@@ -7,7 +7,7 @@ author_profile: true
 
 I am a Ph.D. student associated with the [Bio-Medical Informatics and Bio-Imaging Laboratory (Bio-MIBLab)](https://miblab.bme.gatech.edu/) at [Georgia Institute of Technology](https://www.gatech.edu/). Before my Ph.D., I earned my Bachelor‘s Degree from the [Air Force Institute of Technology](https://afit.edu.ng/home/), Nigeria. 
 
-My research interests encompass Bioinformatics, Machine Learning, Generative AI, as well as Signal and Image Analysis. The primary goal of my work is to forge innovative intersections between Deep Learning, Engineering, and Analysis. These intersections have broad applications in Clinical Decision Support, with a special focus on enhancing the trustworthiness of classification algorithm.
+My research interests encompass Bioinformatics, Machine Learning, Generative AI, as well as Signal and Image Analysis. The primary goal of my work is to forge innovative intersections between Deep Learning, Engineering, and Analysis. These intersections have broad applications in Clinical Decision Support, with a special focus on enhancing the trustworthiness of classification algorithms.
 
 News
 ------
