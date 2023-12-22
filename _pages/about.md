@@ -9,7 +9,6 @@ I am a Ph.D. student associated with the [Bio-Medical Informatics and Bio-Imagin
 
 My research interests focus on the includes Bioinformatics, machine learning, generative AI, and signal & image analysis. My primary goal is to create novel intersection between deep learning, engineering, and analysis with broad applications to clinical decision support, with focus on classification trustworthiness.
 
-with broad applications to clinical decision support, focusing on healthcare improvement
 News
 ------
 * **[Nov 2023]** One paper got accepted in **IEEE-BIBM Artificial Intelligence & Big Data vs Pandemics Workshop 2023**, discussing unceratinty estimation for out of distribution medical imaging.
