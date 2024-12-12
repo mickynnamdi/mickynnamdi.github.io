@@ -34,7 +34,7 @@ Projects
 
 Education
 ------
-* Ph.D. in Electrical & Computer Engineering (expected in 2025)
+* Ph.D. in Electrical & Computer Engineering (expected soonest)
 * M.S. in Electrical & Computer Engineering, 2023
 * B.Sc in Electrical Electronics Engineering, 2018
 
