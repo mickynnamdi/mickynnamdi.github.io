@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Micky Nnamdi"
 title_separator          : "-"
 name                     : &name "Micky Nnamdi"
-description              : &description "ECE PhD Student @ Georgia Tech|Research Assistant @ MIBLab"
+description              : &description "ECE PhD Candidate @ Georgia Tech|Research Assistant @ MIBLab"
 url                      : https://mickynnamdi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mickynnamdi/mickynnamdi.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Micky Nnamdi"
   avatar           : "profile.jpg"
-  bio              : "ECE PhD Student at Georgia Tech"
+  bio              : "ECE PhD Candidate at Georgia Tech"
   location         : "Atlanta, USA"
   employer         :
   pubmed           : 
